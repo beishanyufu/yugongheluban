@@ -25,7 +25,11 @@
 
 项目当前包括：
 
-A. 一个位于知乎的主账号——就是这里！
+A. 一个位于知乎的主账号——
+
+浏览器访问：www.zhihu.com/people/yugongheluban
+
+或知乎app搜用户“愚公和鲁班”
 
 B. 一个同名淘宝店——
 
@@ -33,7 +37,7 @@ B. 一个同名淘宝店——
 
 或浏览器访问：yugongheluban.taobao.com
 
-C. 一个github仓库——
+C. 一个github仓库——就是这里！
 
 www.github.com/beishanyufu/yugongheluban
 

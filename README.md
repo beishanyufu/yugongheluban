@@ -36,6 +36,8 @@ www.github.com/beishanyufu/yugongheluban
 
 微信搜“愚公和鲁班”
 
+**E. 一个开发中的网站（愚公和鲁班旗下生产制造类知识的共享平台和众创社区）**
+
 
 欢迎关注或订阅本项目的上述账号！
 
